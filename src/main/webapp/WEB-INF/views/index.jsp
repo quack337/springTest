@@ -14,7 +14,7 @@ hello <br />
 <c:set var="data2" value="${ data }" />
 [${ data2 }] <br />
 [${ data2.id2 }] <br />
-good morning <br />
+good afternoon <br />
 </body>
   
 </html>
