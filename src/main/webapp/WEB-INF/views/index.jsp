@@ -8,13 +8,13 @@
 <a href="/springTest/input1/dataListInput.do">dataListInput.do</a> <br />
 <a href="/springTest/err/index.do">err/index.do</a> <br />
 
-hello <br />
+hello world<br />
 [${ data.id }] <br />
 [${ msg }] <br />
 <c:set var="data2" value="${ data }" />
 [${ data2 }] <br />
 [${ data2.id2 }] <br />
-good afternoon <br />
+good day<br />
 </body>
   
 </html>
